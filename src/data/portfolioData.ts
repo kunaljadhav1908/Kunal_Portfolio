@@ -163,6 +163,7 @@ export const projects: Project[] = [
       "REST API integration"
     ],
     githubUrl: "https://github.com/kunaljadhav1908/KCart",
+    liveDemoUrl: "https://kcart-shopingplatform.ai.studio",
     isFeatured: false,
     thumbnailPattern: "kcart"
   },
